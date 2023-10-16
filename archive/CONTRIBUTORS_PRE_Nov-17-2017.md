@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+### Name: [Bhuvin]
+- place: India
+- bio: web developer html and python
+- github:[https://github.com/silver-spar]
